@@ -3,11 +3,11 @@ This repository contains manual testing assignments for an SQA interview, focusi
 
 # **Table of Contents**<br>
 1.Assignment Overview <br>
-2.Manual Tesing Issue Report.
-3.Testing Assignment Question.
-4.Prerequisites for the QA Testing Assignment
-5.Details Discussion on the Assignment Issue report. 
-6.Conclusion. 
+2.Manual Tesing Issue Report <br>
+3.Testing Assignment Question <br>
+4.Prerequisites for the QA Testing Assignment <br>
+5.Details Discussion on the Assignment Issue report <br> 
+6.Conclusion <br> 
 
 
 # Assignment Overview
