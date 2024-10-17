@@ -3,7 +3,7 @@ This repository contains manual testing assignments for an SQA interview, focusi
 
 ## **Table of Contents**<br>
 1.[Assignment Overview](#assignment-overview) <br>
-2.[Manual Tesing Issue Report](#Manual-Tesing-Issue-Report) <br>
+2.[Manual Testing Issue Report](#Manual-Testing-Issue-Report) <br>
 3.[Testing Assignment Question](#Testing-Assignment-Question) <br>
 4.[Prerequisites for the QA Testing Assignment](#Prerequisites-for-the-QA-Testing-Assignment) <br>
 5.[Details Discussion on the Assignment Issue report](Details-Discussion-on-the-Assignment-Issue-report) <br> 
@@ -92,11 +92,11 @@ This indicates whether the issue is Open, In Progress, Resolved, or Closed. Keep
 **Assigned To:** <br>
 This section identifies who is responsible for addressing the issue. Knowing who is assigned can help in following up and ensuring timely resolution. <br>
 **Comments/Notes:** <br>
-A space for additional information, updates, or communication regarding the issue. This could include feedback from developers, discussions about potential solutions, or notes on testing after the fix has been implemented.
-Importance of the Testing Issue Report
-**Communication Tool:** This report serves as a bridge between testers and developers, ensuring everyone is on the same page regarding issues that need addressing.
-**Documentation:** It provides a historical record of the testing process, which is invaluable for future reference and learning.
-**Quality Assurance:** By systematically documenting issues, the report helps ensure that all identified bugs are addressed before the application goes live, enhancing the overall quality of the product.
+A space for additional information, updates, or communication regarding the issue. This could include feedback from developers, discussions about potential solutions, or notes on testing after the fix has been implemented.<br>
+Importance of the Testing Issue Report. <br>
+**Communication Tool:** <br> This report serves as a bridge between testers and developers, ensuring everyone is on the same page regarding issues that need addressing.
+**Documentation:** <br> It provides a historical record of the testing process, which is invaluable for future reference and learning.
+**Quality Assurance:** <br> By systematically documenting issues, the report helps ensure that all identified bugs are addressed before the application goes live, enhancing the overall quality of the product.
 
 
  ## Conclusion
