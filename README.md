@@ -3,7 +3,7 @@ This repository contains manual testing assignments for an SQA interview, focusi
 
 ## **Table of Contents**<br>
 1.[Assignment Overview](#assignment-overview) <br>
-2.Manual Tesing Issue Report <br>
+2.[Manual Tesing Issue Report](#Manual-Tesing-Issue-Report) <br>
 3.Testing Assignment Question <br>
 4.Prerequisites for the QA Testing Assignment <br>
 5.Details Discussion on the Assignment Issue report <br> 
@@ -25,13 +25,13 @@ The assignment emphasizes the importance of testing across different browsers an
 Reporting and Documentation:<br>
 Results from the testing process are documented in an organized manner, facilitating easy review and feedback from stakeholders. The clear layout helps in understanding the testing outcomes and assists in making informed decisions for improvements.<br>
 
- # Manual Testing Issue Report
+ ## Manual Testing Issue Report
  There is given a excel file which is Testing Issue Report. 
 
- # Testing Assignment Question
+ ## Testing Assignment Question
   There is given a pdf file which is Assignment Question. 
 
-# Prerequisites for the QA Testing Assignment
+ ## Prerequisites for the QA Testing Assignment
 Before starting the QA Testing Assignment, freshers should be equipped with the following knowledge and skills:<br>
 
 **Basic Understanding of Software Testing:** <br>
@@ -59,7 +59,7 @@ The capability to think critically and analyze issues logically to propose solut
 **Time Management:** <br>
 Skills in managing time effectively to ensure that testing activities are completed within deadlines while maintaining quality. <br>
 
- # Details Discussion on the Assignment Issue report
+ ## Details Discussion on the Assignment Issue report
  This Testing Issue Report serves as a critical document for capturing and tracking issues discovered during the manual testing of the 
  application. Understanding this report is essential for freshers in QA to ensure they can effectively identify, document, and 
  communicate issues. <br>
@@ -99,7 +99,7 @@ Importance of the Testing Issue Report
 **Quality Assurance:** By systematically documenting issues, the report helps ensure that all identified bugs are addressed before the application goes live, enhancing the overall quality of the product.
 
 
- # Conclusion
+ ## Conclusion
  This QA Testing Assignment not only enhances manual testing skills but also provides valuable insights into the overall quality assurance process. By systematically validating the homepage's functionality, it ensures a high-quality user experience for the end users.
 For freshers, understanding how to create and manage a Testing Issue Report is a foundational skill in QA. It fosters a systematic approach to identifying and communicating issues, ultimately contributing to better software quality and user satisfaction. By adhering to the structure and details outlined in the report, freshers can effectively participate in the QA process and make meaningful contributions to their teams.
 
