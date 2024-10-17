@@ -1,8 +1,8 @@
 # SQA-Interview-Assignment-For-Freshers
 This repository contains manual testing assignments for an SQA interview, focusing on verifying UI designs, cross-browser functionality, and reporting bugs or issues. The tests include comparisons with original designs and functionality checks on different devices and browsers.
 
-# **Table of Contents**
-1.Assignment Overview
+# **Table of Contents**<br>
+1.Assignment Overview <br>
 2.Manual Tesing Issue Report.
 3.Testing Assignment Question.
 4.Prerequisites for the QA Testing Assignment
