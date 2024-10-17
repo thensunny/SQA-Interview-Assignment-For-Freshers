@@ -26,10 +26,9 @@ Reporting and Documentation:<br>
 Results from the testing process are documented in an organized manner, facilitating easy review and feedback from stakeholders. The clear layout helps in understanding the testing outcomes and assists in making informed decisions for improvements.<br>
 
 ## Manual Testing Issue Report
- -[Testing Issue Report](./DIG_CT_Testing_Issue_Report_(Asif Khan Sunny).xlsx) 
-
+ -[Testing Issue Report](./DIG_CT_Testing_Issue_Report_(Asif%20Khan%20Sunny).xlsx)
 ## Testing Assignment Question
-  There is given a pdf file which is Assignment Question. 
+ -[Testing assignment question](./QA-Test-Assignment.pdf)
 
 ## Prerequisites for the QA Testing Assignment
 Before starting the QA Testing Assignment, freshers should be equipped with the following knowledge and skills:<br>
