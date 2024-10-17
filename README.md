@@ -26,7 +26,7 @@ Reporting and Documentation:<br>
 Results from the testing process are documented in an organized manner, facilitating easy review and feedback from stakeholders. The clear layout helps in understanding the testing outcomes and assists in making informed decisions for improvements.<br>
 
 ## Manual Testing Issue Report
- -[Testing Issue Report](/DIG_CT_Testing_Issue_Report_(Asif Khan Sunny)) 
+ -[Testing Issue Report](./DIG_CT_Testing_Issue_Report_(Asif Khan Sunny).xlsx) 
 
 ## Testing Assignment Question
   There is given a pdf file which is Assignment Question. 
