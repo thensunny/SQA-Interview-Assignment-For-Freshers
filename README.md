@@ -28,7 +28,7 @@ Results from the testing process are documented in an organized manner, facilita
 ## Manual Testing Issue Report
  -[Testing Issue Report](./DIG_CT_Testing_Issue_Report_(Asif%20Khan%20Sunny).xlsx)
 ## Testing Assignment Question
- -[Testing assignment question](./QA-Test-Assignment.pdf)
+ -[Testing Assignment Question](./QA-Test-Assignment.pdf)
 
 ## Prerequisites for the QA Testing Assignment
 Before starting the QA Testing Assignment, freshers should be equipped with the following knowledge and skills:<br>
